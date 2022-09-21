@@ -8,4 +8,4 @@ information on the development and status of Cavern! To answer a few questions I
 or a copy of discord. Yes, the UI is similar. However, we are VERY different as we have a strict no censorship policy which means
 our platform is open to everybody no matter where you are and what you do, the idea behind Cavern is very different as well, It is not just for gamers or students, it's for everybody, we have an entirely different framework behind Cavern; they are both made on ElectronJS but are very different. Cavern is still very very early in development and is subject to change. To anybody wondering where the source code is; it is currently not public due to security reasons.
 Feel free to reach out to me personally if you have any questions. P.S. Cavern is completely free and has no extra charges 
-what so ever, Cavern is a non-profit service. 
+what so ever, Cavern is a non-profit service and for those wondering about ads, we don't like ads; so there are none. 
